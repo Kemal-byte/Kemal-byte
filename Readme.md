@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kemal</h1>
-<h3 align="center">A Software Developer from Germany/Dresden/h3>
+<h3 align="center">A Software Developer from Germany/Dresden </h3>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kemal-byte" alt="Kemal-byte" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 📝 I regularly write articles on [My Medium Page](https://Kemal-byte.medium.com)
+<!-- - 📝 I regularly write articles on [My Medium Page](https://Kemal-byte.medium.com) -->
 
 - 📫 How to reach me **i.kemal.karabulut@gmail.com**
 
