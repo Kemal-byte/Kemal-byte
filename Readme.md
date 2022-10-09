@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/kemal-karabulut-9289a3159/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Kemal-byte" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/16516230/kemal-karabulut" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
 <a href="https://www.instagram.com/kemal_bcd/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Kemal-byte" height="30" width="30" /></a>
-<a href="https://medium.com/@i.kemal.karabulut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@Kemal-byte" height="30" width="40" /></a>
+<a href="https://medium.com/@i.kemal.karabulut" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="@Kemal-byte" height="30" width="40" /></a>
 
 
 </p>
